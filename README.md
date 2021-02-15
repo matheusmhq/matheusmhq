@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="50" height="50"/> 
   <img src="https://cdn.auth0.com/blog/react-js/react.png" alt="react" width='50' height='50'/>
-  <img color="red" src="https://d33wubrfki0l68.cloudfront.net/97f337956b87f4589dbf68591f22f5f3dacf2736/55f2a/img/redux_white.svg" alt="redux" width='50' height='50'/>
+  <img src="https://d33wubrfki0l68.cloudfront.net/97f337956b87f4589dbf68591f22f5f3dacf2736/55f2a/img/redux_white.svg" alt="redux" width='50' height='50'/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="50" height="50"/>
   <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="vs-code height="50" width='50'>
