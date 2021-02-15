@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 
 ### 🚀 Minha stack
 <div class="row">
+   <img src="https://cdn.auth0.com/blog/react-js/react.png" alt="react" width='50' height='50'/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="50" height="50"/> 
