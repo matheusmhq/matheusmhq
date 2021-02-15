@@ -1,4 +1,18 @@
-### Hi there 👋
+<!--
+**matheusmhq/matheusmhq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 
 <!--
 **matheusmhq/matheusmhq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +28,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Olá.
+
+## Matheus Henrique
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/matheusmhq)](https://github.com/matheusmhq)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-henrique-7605b9167/)](https://www.linkedin.com/in/matheus-henrique-7605b9167/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?&style=flat-square&logo=Gmail&logoColor=white&link=mailto:mhqsoftware@gmail.com)](mailto:mhqsoftwareh@gmail.com)
+
+
+### 🚀 Minha stack
+<div class="row">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="50" height="50"/>
+  <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="vs-code height="50" width='50'>
+  <img src="https://img.icons8.com/color/48/000000/adobe-xd.png" width='50' height='50'/>
+</div>
