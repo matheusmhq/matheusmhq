@@ -13,7 +13,7 @@
 
 ### 🚀 Minha stack
 
-![Matheus Mhq Stack](stack/all.png?raw=true)
+![Matheus Mhq Stack](stack/full.png?raw=true)
 
 <div class="row">
   <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
