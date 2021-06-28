@@ -4,7 +4,7 @@
 
 👨 Meu nome é Matheus Henrique, sou desenvolver web e mobile com foco em front-end. Minha stack principal é react.
 
-📚 Sou estudante de Engenharia de Software e me formo esse ano. 🙏🙏
+📚 Sou estudante de Engenharia de Software. 🙏🙏
 
 ### 🚩 Contato
 
