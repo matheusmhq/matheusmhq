@@ -2,7 +2,7 @@
 
 ## Olá, tudo bem?😀
 
-👨 Meu nome é Matheus Henrique, sou desenvolver web e mobile com foco em front-end. Minha stack principal é react.
+👨 Meu nome é Matheus Henrique, sou desenvolvedor web e mobile com foco em front-end. Minha stack principal é react.
 
 📚 Sou estudante de Engenharia de Software. 🙏🙏
 
