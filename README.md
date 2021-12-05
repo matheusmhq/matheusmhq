@@ -2,7 +2,7 @@
 
 ## Olá, tudo bem?😀
 
-👨 Meu nome é Matheus, sou desenvolvedor web e mobile com foco em front-end. Minha stack principal é React e todo seu ecosistema.
+👨 Meu nome é Matheus, sou desenvolvedor web e mobile com foco em front-end. Minha stack principal é o React e todo seu ecosistema.
 
 📚 Sou estudante de Engenharia de Software. 🙏🙏
 
