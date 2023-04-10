@@ -6,12 +6,6 @@
 
 📚 Bacharel em Engenharia de Software.
 
-<div align="center">
-  <a href="https://github.com/matheusmhq">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheusmhq&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmhq&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 ### 🚩 Contato
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-henrique-7605b9167/)](https://www.linkedin.com/in/matheus-henrique-7605b9167/)
